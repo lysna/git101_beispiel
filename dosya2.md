@@ -1,0 +1,3 @@
+# Dosya 2
+Birkaç değişiklik yapalım
+login sorunu düzenlemesinin ilk kısmı bu dosyada....
